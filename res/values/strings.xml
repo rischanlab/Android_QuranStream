@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">QuranStream</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">QuranStream</string>
+
+
+    <color name="color2">#30700D</color>
+    <color name="color1">#61B031</color>
+    <color name="transparan">#00FFFFFF</color>
+</resources>
